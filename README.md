@@ -1,2 +1,2 @@
 # authorization
-авторизация php
+авторизация на php
